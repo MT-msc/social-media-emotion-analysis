@@ -20,4 +20,4 @@ This project explores which factors are strongly associated with emotional respo
 - Female users tend to spend more time online and receive more interactions
 
 ## Dataset
-[Social Media Usage and Emotional Well-Being]([https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being]) from Kaggle
+[Social Media Usage and Emotional Well-Being](https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being) from Kaggle
